@@ -1,12 +1,12 @@
 package 김경호;
 
-public class Test {
+public class Test5 {
 	private int no;
 	private String name;
-	public Test() {
+	public Test5() {
 		// TODO Auto-generated constructor stub
 	}
-	public Test(int no, String name) {
+	public Test5(int no, String name) {
 		super();
 		this.no = no;
 		this.name = name;
@@ -23,13 +23,10 @@ public class Test {
 	public void setName(String name) {
 		this.name = name;
 	}
-<<<<<<< HEAD
-	//@Override
+	@Override
 	public String toString() {
 		return "Test [no=" + no + ", name=" + name + "]";
 	}
 	
-=======
->>>>>>> branch 'master' of https://github.com/2022-11-JAVA-DEVELOPER/applicationProject
 
 }
