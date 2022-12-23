@@ -1,6 +1,6 @@
 package 유승근;
 
-public class Test {
+public class TestMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
