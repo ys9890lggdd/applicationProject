@@ -23,7 +23,8 @@ public class Test2 {
 	public void setName(String name) {
 		this.name = name;
 	}
-	//@Override
+
+//github.com/2022-11-JAVA-DEVELOPER/applicationProject
 	public String toString() {
 		return "Test [no=" + no + ", name=" + name + "]";
 	}
