@@ -3,9 +3,9 @@ package 김경호;
 public class TestMain {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("충돌");
-//123
+		System.out.println("test1강사");
+		System.out.println("야호");
 	}
 
 }
