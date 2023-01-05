@@ -6,6 +6,7 @@ public class TestMain {
 
 
 		System.out.println("test1강사");
+		System.out.println("야호");
 	}
 
 }
