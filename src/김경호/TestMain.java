@@ -27,9 +27,14 @@ public class TestMain {
 		System.out.println("test2강사");
 		System.out.println("야호");
 		System.out.println("깃");
+<<<<<<< HEAD
 
 >>>>>>> branch 'master' of https://github.com/2022-11-JAVA-DEVELOPER/applicationProject.git
 	
+	
+=======
+		System.out.println("한줄 더");
+>>>>>>> branch 'master' of https://github.com/2022-11-JAVA-DEVELOPER/applicationProject.git
 	
 	}
 
