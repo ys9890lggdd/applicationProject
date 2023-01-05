@@ -23,5 +23,11 @@ public class Test {
 	public void setName(String name) {
 		this.name = name;
 	}
+	public String toString() {
+		return "Test [no=" + no + ", name=" + name + "]";
+	}
+//	
+//=======
+//>>>>>>> branch 'master' of https://github.com/2022-11-JAVA-DEVELOPER/applicationProject
 
 }
