@@ -7,6 +7,7 @@ public class TestMain {
 		// TODO Auto-generated method stub ddddsfa
 
 		System.out.println("test1강사");
+		System.out.println("야호");
 	}
 
 }
