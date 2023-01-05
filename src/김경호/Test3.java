@@ -24,6 +24,7 @@ public class Test3 {
 		this.name = name;
 	}
 	
+//github.com/2022-11-JAVA-DEVELOPER/applicationProject
 	public String toString() {
 		return "Test [no=" + no + ", name=" + name + "]";
 	}
