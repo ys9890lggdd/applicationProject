@@ -23,7 +23,7 @@ public class Test3 {
 	public void setName(String name) {
 		this.name = name;
 	}
-	@Override
+	
 	public String toString() {
 		return "Test [no=" + no + ", name=" + name + "]";
 	}
