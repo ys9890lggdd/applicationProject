@@ -1,11 +1,17 @@
 package master;
 
+////라라라라ㅏ라
+
+
 public class Test2 {
 	private int no;
 	private String name;
 	public Test2() {
 		// TODO Auto-generated constructor stub
 	}
+	
+	
+	
 	public Test2(int no, String name) {
 		super();
 		this.no = no;
