@@ -1,4 +1,4 @@
-package master.이원호;
+package 이원호;
 
 public class Test {
 	private int no;
