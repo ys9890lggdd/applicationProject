@@ -1,12 +1,12 @@
-package 김경호;
+package master;
 
-public class Test5 {
+public class Test3 {
 	private int no;
 	private String name;
-	public Test5() {
+	public Test3() {
 		// TODO Auto-generated constructor stub
 	}
-	public Test5(int no, String name) {
+	public Test3(int no, String name) {
 		super();
 		this.no = no;
 		this.name = name;
@@ -24,6 +24,7 @@ public class Test5 {
 		this.name = name;
 	}
 	
+//github.com/2022-11-JAVA-DEVELOPER/applicationProject
 	public String toString() {
 		return "Test [no=" + no + ", name=" + name + "]";
 	}

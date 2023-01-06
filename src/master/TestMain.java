@@ -1,4 +1,4 @@
-package 김경호;
+package master;
 
 public class TestMain {
 

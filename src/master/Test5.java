@@ -1,12 +1,12 @@
-package 김경호;
+package master;
 
-public class Test4 {
+public class Test5 {
 	private int no;
 	private String name;
-	public Test4() {
+	public Test5() {
 		// TODO Auto-generated constructor stub
 	}
-	public Test4(int no, String name) {
+	public Test5(int no, String name) {
 		super();
 		this.no = no;
 		this.name = name;
